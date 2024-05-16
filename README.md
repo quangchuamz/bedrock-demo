@@ -14,11 +14,11 @@ pip3 install -r requirements.txt -U
 ## Run with UI:
 
 ```
-streamlit run streaming/index.py
+streamlit run index.py
 ```
 
 ## Run with console:
 
 ```
-python3 run streaming/index.py
+python3 run index.py
 ```
